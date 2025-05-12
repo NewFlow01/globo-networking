@@ -9,5 +9,5 @@ output "vpc_id" {
 
 output "public_subnets" {
   value       = module.main.public_subnets
-  description = "list of public subnetss"
+  description = "list of public subnetsss"
 }
